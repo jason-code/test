@@ -1,0 +1,2 @@
+services:
+  - martin-naumann/go-rethinkdb@0.0.1
